@@ -18,3 +18,7 @@ Github: syedmahammadsaleem-SS
 -vs code
 ## status
 learning and growing every day
+## Goals
+- Learn Git and GitHub completely
+- Build 3 Data Science projects
+- Get a Data Science job!
